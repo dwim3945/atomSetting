@@ -1,0 +1,13 @@
+atom-css-class-checker@0.4.3
+atom-typescript@7.7.2
+autohide-tree-view@0.25.1
+color-picker@2.0.13
+emmet@2.3.13
+html-nested-comments@3.2.0
+japanese-menu@1.5.0
+jumpy@2.0.10
+linter@1.10.0
+terminal-panel@1.14.1
+tool-bar@0.1.11
+tool-bar-main@0.0.8
+
